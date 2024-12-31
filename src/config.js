@@ -1,1 +1,1 @@
-export const APP_URL = "https://honey-tyagi-spotify-clone.vercel.app";
+export const APP_URL = "http://localhost:5173";
